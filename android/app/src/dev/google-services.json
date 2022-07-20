@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790530599884",
+    "project_id": "dev-geniopay",
+    "storage_bucket": "dev-geniopay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790530599884:android:c44fe631cd024b12008b69",
+        "android_client_info": {
+          "package_name": "com.geniopay.geniopay.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790530599884-g2u9tnsbmeivt1rinpfjv38cpp8cn10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCUPU9aVaGJdE9V31wAAez9dtjCI5sp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790530599884-g2u9tnsbmeivt1rinpfjv38cpp8cn10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
